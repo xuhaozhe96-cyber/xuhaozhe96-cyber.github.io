@@ -1,0 +1,19 @@
+{
+  "name": "Cargo Move Device Desk",
+  "short_name": "Cargo Move",
+  "description": "Cargo Move device checkout and return desk",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#f3f6f8",
+  "theme_color": "#23679e",
+  "icons": [
+    {
+      "src": "/cargo-move-logo.png",
+      "sizes": "1040x1041",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
